@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gitdas-dev/react_deploy_gh/static/css/main.b01ea3a2.css",
+    "main.js": "/gitdas-dev/react_deploy_gh/static/js/main.45a7cf2c.js",
+    "index.html": "/gitdas-dev/react_deploy_gh/index.html",
+    "main.b01ea3a2.css.map": "/gitdas-dev/react_deploy_gh/static/css/main.b01ea3a2.css.map",
+    "main.45a7cf2c.js.map": "/gitdas-dev/react_deploy_gh/static/js/main.45a7cf2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b01ea3a2.css",
+    "static/js/main.45a7cf2c.js"
+  ]
+}
